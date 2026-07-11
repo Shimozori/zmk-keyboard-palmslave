@@ -1,11 +1,11 @@
 include:
-  - board: ble_micro_pro
+  - board: ble_micro_pro//zmk
     shield: palmslave_left
     snippet: studio-rpc-usb-uart
     artifact-name: palmslave_left
-  - board: ble_micro_pro
+  - board: ble_micro_pro//zmk
     shield: palmslave_right
     snippet: studio-rpc-usb-uart
     artifact-name: palmslave_right
-  - board: ble_micro_pro
+  - board: ble_micro_pro//zmk
     shield: settings_reset
