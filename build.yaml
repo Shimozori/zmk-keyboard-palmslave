@@ -1,11 +1,11 @@
 include:
-  - board: ble_micro_pro/nrf52840/zmk
+  - board: ble_micro_pro/nrf52840
     shield: palmslave_left
     snippet: studio-rpc-usb-uart
     artifact-name: palmslave_left
-  - board: ble_micro_pro/nrf52840/zmk
+  - board: ble_micro_pro/nrf52840
     shield: palmslave_right
     snippet: studio-rpc-usb-uart
     artifact-name: palmslave_right
-  - board: ble_micro_pro/nrf52840/zmk
+  - board: ble_micro_pro/nrf52840
     shield: settings_reset
